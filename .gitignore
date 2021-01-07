@@ -2,3 +2,4 @@ node_modules
 .gitconfig
 package-lock.json
 tmp/
+.DS_Store
